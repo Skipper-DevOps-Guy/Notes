@@ -1,0 +1,4 @@
+If you see origin/main but not origin/master, it means your repository uses main instead of master.
+
+2. Pull the Correct Branch
+If your remote branch is main, pull from main instead:
